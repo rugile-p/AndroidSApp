@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyCVhere</string>
+    <string name="previous">Back</string>
+    <string name="first_fragment_label">About me</string>
+    <string name="second_fragment_label">Projects</string>
+    <string name="next">Projects</string>
+    <string name="choose_language">Choose language</string>
+
+    <string name="job_name">Grafical designer</string>
+    <string name="name">Rugile Peciokaite</string>
+    <string name="summary">I am a 4th year Multimedia and Computer Design student at Vilnius Gediminas Technical University currently seeking an internship position related to web programming and graphical design. Although, I have no work experience in this sphere, I believe I would make an excellent addition to your team.\n\nRelevant subjects: Procedural and Object-Oriented Programming, Web Programming, 3D modeling, Basics of Graphical Design, Computer Graphics, Software Engineering, Technologies of e-services, Database Management.</string>
+    <string name="contacts">Contacts</string>
+    <string name="tel">+37061949918</string>
+    <string name="mail">rugile.peciokaite@gmail.com</string>
+    <string name="exp1">Online shop prototype</string>
+    <string name="exp1t">Relevant projects in developing visual design on Adobe XD and code using HTML and CSS.\n\n2021/09 - 2022/01</string>
+    <string name="exp2">Traveling website prototype</string>
+    <string name="exp2t">Relevant projects in developing a prototype using HTML and CSS for the front‑end, PHP for the back‑end, and MySQL for the database.\n\n2021/09 - 2022/01</string>
+    <string name="exp3">Hosting application prototype</string>
+    <string name="exp3t">Relevant projects in developing visual design on Figma.\n\n2022/03 - 2022/06</string>
+    <string name="exp4">Hosting application prototype</string>
+    <string name="exp4t">Relevant projects in developing a fully working library usingPython for the back‑end, HTML for the front‑end, and PostgreSQL for the database.\n\n2022/03 - 2022/06</string>
+
+
+    <string name="TODO">TODO</string>
+    <string name="todo">TODO</string>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rugile</string>
+    <string name="first_fragment_label">Aprašymas</string>
+    <string name="second_fragment_label">Projektai</string>
+    <string name="next">Projektai</string>
+    <string name="previous">Grįžti</string>
+    <string name="choose_language">Pasirinkti kalbą</string>
+
+    <string name="job_name">Grafikos dizainerė</string>
+    <string name="name">Rugilė Pečiokaitė</string>
+    <string name="summary">Esu 4 kurso Multimedijos ir kompiuterinio dizaino studentė Vilniaus Gedimino Technikos Universitete. Ieškau praktikos web programavimo bei grafinio dizaino srityse.\nŠiuo metu neturiu jokios darbo patirties šioje sferoje, tačiau tikiuosi panaudoti savo turimas žinias, kuo daugiau išmokti dirbant įmonėje bei tapti gera srities specialiste.\n\nStudijų metu praktikuoti dalykai:\nProcedūrinis bei objektinis programavimas, web programavimas, 3D modeliavimas, grafinio dizaino pagrindai, kompiuterinė grafika, programų sistemų inžinerija, e-paslaugų technologijos, duomenų bazių valdymas.</string>
+    <string name="contacts">Kontaktai</string>
+    <string name="tel">+37061949918</string>
+    <string name="mail">rugile.peciokaite@gmail.com</string>
+    <string name="exp1">Internetinės parduotuvės prototipas</string>
+    <string name="exp1t">Svetainės dizaino kūrimas naudojant Adobe XD bei jos vystymas HTML ir CSS žymėjimo kalbomis.\n\n2021/09 - 2022/01</string>
+    <string name="exp2">Kelionių svetainės prototipas</string>
+    <string name="exp2t">Svetainės dizaino kūrimas naudojant Adobe XD, jo vystymas HTML ir CSS žymėjimo kalbomis bei svetainės projektavimas PHP bei MySQL kalbomis.\n\n2021/09 - 2022/01</string>
+    <string name="exp3">Apgyvendinimo svetainės prototipas</string>
+    <string name="exp3t">Svetainės dizaino kūrimas naudojant Figma programą.\n\n2022/03 - 2022/06</string>
+    <string name="exp4">Biblioteka knygoms ir žaidimams</string>
+    <string name="exp4t">Svetainės projektavimas naudojant Python, PostgreSQL ir HTML kalbas.\n\n2022/03 - 2022/06</string>
+
+    <string name="TODO">TODO</string>
+    <string name="todo">TODO</string>
+</resources>
